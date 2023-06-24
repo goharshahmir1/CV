@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+</head>
+<body>
+    <header>
+      <h1><u>EDUCATION:</u></h1>
+    </header>
+    
+    <section>
+    <h2><u>SCHOOL</u></h2>
+    <pre><big><b>Name</b>         Army Burn Hall</big></pre>
+    <pre><big><b>Class</b>        1-6</big></pre>
+    <pre><big><b>Year</b>         2010-2016</big></pre>
+       <img src="https://tse3.mm.bing.net/th?id=OIP.HP0I3a4ST8f1DV-cXF1BaAAAAA&pid=Api&P=0" height="100" alt="Army Burn Hall"/>
+    </section>
+    <hr>
+
+    <section>
+     <h2><u>SCHOOL</u></h2>
+     <pre><big><b>Name</b>      APS Abbottabad</big></pre>
+     <pre><big><b>Class</b>     7-10</big></pre>
+     <pre><big><b>Year</b>      2016-2020</big></pre>
+     <img src="https://tse4.mm.bing.net/th?id=OIP.x8lzzBUwGv4fznvG6f4FVwAAAA&pid=Api&P=0"height="100" alt="APS"/>
+    </section>
+    <hr>
+
+    <section>
+     <h2><u>COLLEGE</u></h2>
+     <pre><big><b>Name</b>      Tammer-i-Watan</big></pre>
+     <pre><big><b>Class</b>      11-12</big></pre>
+     <pre><big><b>Year</b>      2020-2022</big></pre>
+     <img src="https://tse2.mm.bing.net/th?id=OIP.xm7rAgg6f30ycIrbYq2vcQAAAA&pid=Api&P=0"height="100" alt="Tameer-i-Watan"/>
+    </section>
+     <hr>
+   
+    <section>
+     <h2><u>UNIVERSITY</u></h2>
+     <pre><big><b>Name</b>      NUST</big></pre>
+     <pre><big><b>Degree</b>    Software Engineer </big></pre>
+     <pre><big><b>Year</b>      2022-2026</big></pre>
+     <img src="https://tse2.mm.bing.net/th?id=OIP.tvfvvkZhafFiFkOeIlDmAQHaHf&pid=Api&P=0" height="100" alt="Nust"/>
+    </section>
+
+     <hr> 
+</body>
+</html>
